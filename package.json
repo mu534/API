@@ -1,0 +1,25 @@
+{
+  "name": "starting",
+  "version": "1.0.0",
+  "description": "this is first starting of noode js",
+  "main": "index.js",
+  "scripts": {
+    "dq": "nodemon tutorial.js"
+  },
+  "author": "mudasir najimudin",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.12",
+    "debug": "^4.4.0",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.8.4",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3",
+    "underscore": "^1.13.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
